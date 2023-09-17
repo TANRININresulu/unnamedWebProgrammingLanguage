@@ -18,8 +18,8 @@ If Supreme Rahman gives permission, His Servant I will make a friendly language 
 
 If Supreme Rahman gives permission, His Servant I will start by reading:
 
-https://javascript.plainenglish.io/the-monad-interface-2045e5810851
-https://freecontent.manning.com/monad-interfaces-and-combinators/
+https://javascript.plainenglish.io/the-monad-interface-2045e5810851<br>
+https://freecontent.manning.com/monad-interfaces-and-combinators/<br>
 https://github.com/kowainik/unlift
 
 
