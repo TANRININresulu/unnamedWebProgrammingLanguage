@@ -6,4 +6,8 @@ If Supreme Rahman gives permission I will make an event based asynchronous **_mo
 
 Because by Grace of Rahman, His Servant I has clearly saw that **_monads_** are right and nice way to go for controlling and managing **_side effect orders_** of 19X334.COM
 
-If Supreme Rahman gives permission, His Servant I will invent and make a new kind of language construct(s)/mechanism(s) in order to simplify using monads for everyone! Selam! =) Shalom!
+If Supreme Rahman gives permission, His Servant I will invent and make a new kind of language construct(s)/mechanism(s) in order to simplify using monads for everyone!
+
+https://en.m.wikipedia.org/wiki/Monad_(functional_programming)
+
+Selam! =) Shalom!
