@@ -10,4 +10,17 @@ If Supreme Rahman gives permission, His Servant I will invent and make a new kin
 
 https://en.m.wikipedia.org/wiki/Monad_(functional_programming)
 
+Oh! By Grace of Rahman, His Servant I has saw there is a metaphor called monad-transformers which what I have dreamed about:
+
+https://en.wikipedia.org/wiki/Monad_transformer
+
+If Supreme Rahman gives permission, His Servant I will make a friendly language interface for using them in a compiled web language that runs in WebAssembly.
+
+If Supreme Rahman gives permission, His Servant I will start by reading:
+
+https://javascript.plainenglish.io/the-monad-interface-2045e5810851
+https://freecontent.manning.com/monad-interfaces-and-combinators/
+https://github.com/kowainik/unlift
+
+
 Selam! =) Shalom!
