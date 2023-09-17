@@ -22,5 +22,7 @@ https://javascript.plainenglish.io/the-monad-interface-2045e5810851<br>
 https://freecontent.manning.com/monad-interfaces-and-combinators/<br>
 https://github.com/kowainik/unlift
 
+https://en.wikipedia.org/wiki/Functional_reactive_programming
+
 
 Selam! =) Shalom!
